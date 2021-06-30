@@ -1,0 +1,10 @@
+@media (max-width: 767px) {
+#secondary_plp .refinement-header, #secondary_plp .refinement.category-refinement {
+    display: block!important;
+}
+
+
+#secondary_plp span.refinement-header {
+	display: none!important;
+}
+}

@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Accept-Ranges: bytes
+x-dw-request-base-id: Zh7q_7Td22ABAAB_
+X-FRAME-OPTIONS: DENY
+Vary: accept-encoding
+Content-Encoding: gzip
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0afeabd7ab00003c0c87855000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 6677af391e523c0c-BLR
+Expires: Wed, 30 Jun 2021 13:19:07 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 30 Jun 2021 13:19:07 GMT
+Content-Length: 18670
+Connection: keep-alive
+Set-Cookie: dwac_67eebf53ca067719b3ae72792b=VJWWEqdJbw0sXdXlZc7ipk49hd_gmb4Z9Io%3D|dw-only|||INR|false|Asia%2FKolkata|true; Path=/; Secure; SameSite=None
+Set-Cookie: cqcid=bcLb8sQIeYwmKfaksl8x7XcdQe; Path=/; Secure; SameSite=None
+Set-Cookie: cquid=||; Path=/; Secure; SameSite=None
+Set-Cookie: sid=VJWWEqdJbw0sXdXlZc7ipk49hd_gmb4Z9Io; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_46965a131d573c17195742a4ebf3e89f=bcLb8sQIeYwmKfaksl8x7XcdQe; Version=1; Comment="Demandware anonymous cookie for site Sites-LeviIN-Site"; Max-Age=15552000; Expires=Mon, 27-Dec-2021 13:19:07 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: __cq_dnt=0; Path=/; Secure; SameSite=None
+Set-Cookie: dw_dnt=0; Path=/; Secure; SameSite=None
+Set-Cookie: dwsid=j7MmSK9Gwis-blvO3ymXw5UbNYXolhM_5rmoP8WJa0Si1td34tLeWI9f-fhRPdx1ouFKoiDftIxytmht9cdazg==; path=/; HttpOnly; Secure; SameSite=None
+

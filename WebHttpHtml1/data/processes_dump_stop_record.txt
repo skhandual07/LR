@@ -1,0 +1,90 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+Failed to get information of process Id: 332
+Failed to get information of process Id: 452
+Failed to get information of process Id: 508
+Failed to get information of process Id: 540
+Failed to get information of process Id: 564
+Failed to get information of process Id: 604
+Failed to get information of process Id: 612
+Failed to get information of process Id: 624
+Failed to get information of process Id: 744
+Failed to get information of process Id: 844
+Failed to get information of process Id: 900
+Failed to get information of process Id: 912
+Failed to get information of process Id: 112
+Failed to get information of process Id: 476
+Failed to get information of process Id: 684
+Failed to get information of process Id: 404
+Failed to get information of process Id: 1056
+Failed to get information of process Id: 1252
+Failed to get information of process Id: 1388
+Failed to get information of process Id: 1532
+Failed to get information of process Id: 1540
+Failed to get information of process Id: 1620
+Failed to get information of process Id: 1684
+Failed to get information of process Id: 1776
+Failed to get information of process Id: 2116
+Failed to get information of process Id: 2216
+Failed to get information of process Id: 2280
+Failed to get information of process Id: 2512
+Failed to get information of process Id: 2704
+Failed to get information of process Id: 2724
+Failed to get information of process Id: 2756
+Failed to get information of process Id: 2780
+Failed to get information of process Id: 2840
+Failed to get information of process Id: 2876
+Failed to get information of process Id: 2884
+Failed to get information of process Id: 2928
+Failed to get information of process Id: 2972
+Failed to get information of process Id: 2236
+Failed to get information of process Id: 2468
+Failed to get information of process Id: 2772
+Failed to get information of process Id: 2868
+Failed to get information of process Id: 2952
+Failed to get information of process Id: 3304
+PROCESS 0xd18       bingsvc.exe
+PROCESS 0xd30       skype.exe
+Failed to get information of process Id: 3384
+Failed to get information of process Id: 3412
+Failed to get information of process Id: 3476
+Failed to get information of process Id: 3668
+Failed to get information of process Id: 3764
+PROCESS 0xf3c       dcshelper.exe
+Failed to get information of process Id: 3908
+PROCESS 0x12b4      youcamtray.exe
+PROCESS 0x12ec      concentr.exe
+PROCESS 0x13cc      redirector.exe
+PROCESS 0x13d8      hpwuschd2.exe
+PROCESS 0x13e8      jusched.exe
+Failed to get information of process Id: 3284
+Failed to get information of process Id: 3832
+Failed to get information of process Id: 3848
+Failed to get information of process Id: 4764
+Failed to get information of process Id: 4832
+Failed to get information of process Id: 4728
+Failed to get information of process Id: 472
+Failed to get information of process Id: 3312
+PROCESS 0x144c      acrotray.exe
+PROCESS 0x14a4      receiver.exe
+PROCESS 0x16f8      selfserviceplugin.exe
+PROCESS 0x1720      wfcrun32.exe
+Failed to get information of process Id: 396
+Failed to get information of process Id: 5612
+Failed to get information of process Id: 3620
+Failed to get information of process Id: 6260
+Failed to get information of process Id: 6348
+Failed to get information of process Id: 6488
+PROCESS 0x16cc      skypebrowserhost.exe
+Failed to get information of process Id: 7048
+PROCESS 0x1e14      jucheck.exe
+Failed to get information of process Id: 716
+Failed to get information of process Id: 7580
+Failed to get information of process Id: 2008
+Failed to get information of process Id: 2440
+Failed to get information of process Id: 7412
+PROCESS 0x78c       vugen.exe
+Failed to get information of process Id: 3460
+Failed to get information of process Id: 5948
+Failed to get information of process Id: 1976
+Failed to get information of process Id: 6324

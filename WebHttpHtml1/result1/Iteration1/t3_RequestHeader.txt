@@ -1,0 +1,10 @@
+GET /login HTTP/1.1
+Referer: https://www.levi.in/
+Accept-Language: en-US,en;q=0.9
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept: */*
+Connection: Keep-Alive
+Host: www.levi.in
+Cookie: dw=1; dw_cookies_accepted=1; _sdsat_externalcampaign=; _gcl_au=1.1.836284247.1625059163; s_fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF; s_cc=true; dw_levis_store_newsletterpopup=seen; __cq_uuid=bcLb8sQIeYwmKfaksl8x7XcdQe; __cq_seg=0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00; _fbp=fb.1.1625059198598.1709025691; dwac_67eebf53ca067719b3ae72792b=-Ms8V8MytfrOytnSku7CVKlotW0kE7taZxg%3D|dw-only|||INR|false|Asia%2FKolkata|true; cqcid=abBniugjSYhsRHQzcUMarcctf9; cquid=||; sid=-Ms8V8MytfrOytnSku7CVKlotW0kE7taZxg; dwanonymous_46965a131d573c17195742a4ebf3e89f=abBniugjSYhsRHQzcUMarcctf9; __cq_dnt=0; dw_dnt=0; dwsid=VVzm03aTr3eXELBZTgqiGwT_b-mRsqHXPsLQMR8k_xTokxIjtpGlXaSOkyFgMz_Di4iuCAgFpEomc5-2ZCMfRQ==
+

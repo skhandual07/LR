@@ -1,0 +1,34 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: www.levi.in",
+                "infFile": "t1.inf",
+                "time": 1625059504308
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Home-Newsletterpopup",
+                "infFile": "t2.inf",
+                "time": 1625059504869
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: login",
+                "infFile": "t3.inf",
+                "time": 1625059507541
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "sigin_in",
+                "rawStartTime": 1625059504870,
+                "rawEndTime": 1625059507542,
+                "thinkTime": 0.0,
+                "wastedTime": 0.3027031421661377
+            }
+        ]
+    }
+]

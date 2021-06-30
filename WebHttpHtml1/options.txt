@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\Vugen_Scripts\WebHttpHtml1
+-IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
+-ed:\vugen_scripts\webhttphtml1\\logfile.log
+d:\vugen_scripts\webhttphtml1\\combined_WebHttpHtml1.c
+d:\vugen_scripts\webhttphtml1\\pre_cci.c

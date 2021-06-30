@@ -1,0 +1,1893 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-requested-with",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-mobile",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/x-icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-font-woff"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 6,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "Jun-30-2021",
+    "RecordingDuration": 104006,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1625059124,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 4453595,
+    "TotalBytesSent": 100998,
+    "TotalRequests": 86,
+    "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "webex.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "66.163.35.36",
+          "IncludeInScript": false,
+          "Name": "sec-tws-prod-vip.webex.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 483,
+              "EventId": 126,
+              "HttpStatus": 200,
+              "Size": 7,
+              "URL": "https://sec-tws-prod-vip.webex.com/metric/v1"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "omtrdc.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "3.108.177.136",
+          "IncludeInScript": false,
+          "Name": "leviseu2012.d2.sc.omtrdc.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 1093,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s89388889339455?AQB=1&pccr=true&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A29%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=My%20Account%7CHome&g=https%3A%2F%2Fwww.levi.in%2Flogin&r=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event1&v1=My%20Account%7CHome&v2=MyAccount&v3=N%2FA&v4=N%2FA&v40=guest&v41=N%2FA&v70=Web&v71=IN&v72=en_IN&v73=https%3A%2F%2Fwww.levi.in%2Flogin&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 78,
+              "EventId": 1091,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s89388889339455?AQB=1&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A29%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=My%20Account%7CHome&g=https%3A%2F%2Fwww.levi.in%2Flogin&r=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event1&v1=My%20Account%7CHome&v2=MyAccount&v3=N%2FA&v4=N%2FA&v40=guest&v41=N%2FA&v70=Web&v71=IN&v72=en_IN&v73=https%3A%2F%2Fwww.levi.in%2Flogin&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 925,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s84452712954792?AQB=1&pccr=true&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A26%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event5%3ANavigation%20Clicks%20%28e5%29&v5=Header%20Nav%20%7C%20SignIn&pe=lnk_o&pev2=Navigation-Header&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 47,
+              "EventId": 923,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s84452712954792?AQB=1&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A26%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event5%3ANavigation%20Clicks%20%28e5%29&v5=Header%20Nav%20%7C%20SignIn&pe=lnk_o&pev2=Navigation-Header&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 921,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s87717004614498?AQB=1&pccr=true&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A26%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event88%3AInterface%20Click&v1=Storefront%7CHome&v2=storefront&v3=N%2FA&v4=N%2FA&v40=guest&v41=N%2FA&v70=Web&v71=IN&v72=en_IN&v73=https%3A%2F%2Fwww.levi.in%2F&v88=Cart%20%7C%20Hover%20over%20cart%20icon&pe=lnk_e&pev1=https%3A%2F%2Fwww.levi.in%2Flogin&c.&a.&activitymap.&page=Storefront%7CHome&link=SIGN%20IN&region=wrapper&pageIDType=1&.activitymap&.a&.c&pid=Storefront%7CHome&pidt=1&oid=https%3A%2F%2Fwww.levi.in%2Flogin&ot=A&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 47,
+              "EventId": 919,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s87717004614498?AQB=1&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A26%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event88%3AInterface%20Click&v1=Storefront%7CHome&v2=storefront&v3=N%2FA&v4=N%2FA&v40=guest&v41=N%2FA&v70=Web&v71=IN&v72=en_IN&v73=https%3A%2F%2Fwww.levi.in%2F&v88=Cart%20%7C%20Hover%20over%20cart%20icon&pe=lnk_e&pev1=https%3A%2F%2Fwww.levi.in%2Flogin&c.&a.&activitymap.&page=Storefront%7CHome&link=SIGN%20IN&region=wrapper&pageIDType=1&.activitymap&.a&.c&pid=Storefront%7CHome&pidt=1&oid=https%3A%2F%2Fwww.levi.in%2Flogin&ot=A&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 917,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s81534634799832?AQB=1&pccr=true&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A25%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event88%3AInterface%20Click&v88=Cart%20%7C%20Hover%20over%20cart%20icon&pe=lnk_o&pev2=Hover%20Cart&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 31,
+              "EventId": 915,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s81534634799832?AQB=1&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A25%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event88%3AInterface%20Click&v88=Cart%20%7C%20Hover%20over%20cart%20icon&pe=lnk_o&pev2=Hover%20Cart&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 913,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s83935710593152?AQB=1&pccr=true&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A25%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event88%3AInterface%20Click&v88=Cart%20%7C%20Hover%20over%20cart%20icon&pe=lnk_o&pev2=Hover%20Cart&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 78,
+              "EventId": 911,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s83935710593152?AQB=1&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A25%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event88%3AInterface%20Click&v88=Cart%20%7C%20Hover%20over%20cart%20icon&pe=lnk_o&pev2=Hover%20Cart&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 903,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s85742753299456?AQB=1&pccr=true&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A12%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event88%3AInterface%20Click&v88=Promotion%20Popup%20Close&pe=lnk_o&pev2=Promotion%20Popup%20Close&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 46,
+              "EventId": 901,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s85742753299456?AQB=1&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A50%3A12%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event88%3AInterface%20Click&v88=Promotion%20Popup%20Close&pe=lnk_o&pev2=Promotion%20Popup%20Close&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 1794,
+              "EventId": 811,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s81101406371578?AQB=1&pccr=true&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A49%3A27%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event1&v1=Storefront%7CHome&v2=storefront&v3=N%2FA&v4=N%2FA&v40=guest&v41=N%2FA&v70=Web&v71=IN&v72=en_IN&v73=https%3A%2F%2Fwww.levi.in%2F&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 405,
+              "EventId": 766,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://leviseu2012.d2.sc.omtrdc.net/b/ss/leviasiaglobalprod/1/JS-2.6.0-D7QN/s81101406371578?AQB=1&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A49%3A27%203%20-330&D=D%3D&fid=43CEDF9FC57DB7B7-16383A1CF5E4EADF&ce=UTF-8&cdp=3&pageName=Storefront%7CHome&g=https%3A%2F%2Fwww.levi.in%2F&cc=INR&events=event1&v1=Storefront%7CHome&v2=storefront&v3=N%2FA&v4=N%2FA&v40=guest&v41=N%2FA&v70=Web&v71=IN&v72=en_IN&v73=https%3A%2F%2Fwww.levi.in%2F&s=1366x768&c=24&j=1.6&v=N&k=Y&bw=1256&bh=564&AQE=1"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "levi.in",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "106.51.42.18",
+          "IncludeInScript": true,
+          "Name": "www.levi.in",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 203,
+              "EventId": 1103,
+              "HttpStatus": 200,
+              "Size": 35,
+              "URL": "https://www.levi.in/on/demandware.store/Sites-LeviIN-Site/en_IN/__Analytics-Start?url=https%3A%2F%2Fwww.levi.in%2Flogin&res=1366x768&cookie=1&ref=https%3A%2F%2Fwww.levi.in%2F&title=Account%20Login&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&dwac=0.28804518863183715&cmpn=&tz=Asia/Kolkata&pcc=INR&pct=&pcat=&dw_dnt=0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/x-icon",
+              "DownloadTime": 31,
+              "EventId": 1095,
+              "HttpStatus": 200,
+              "Size": 767,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/default/dwae3ddded/images/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 63,
+              "EventId": 1082,
+              "HttpStatus": 200,
+              "Size": 19040,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/dwf2aaf995/images/facebookmonochrome24x24.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 1080,
+              "HttpStatus": 200,
+              "Size": 19366,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/dwb1a699d2/images/googleicon24x24.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 1078,
+              "HttpStatus": 200,
+              "Size": 802,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dwa29815be/images/homepage/India.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 1076,
+              "HttpStatus": 200,
+              "Size": 9844,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw96cbad45/images/homepage/logo.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-font-woff",
+              "DownloadTime": 390,
+              "EventId": 1029,
+              "HttpStatus": 200,
+              "Size": 71997,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/Interstate-Bold.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-font-woff",
+              "DownloadTime": 203,
+              "EventId": 1026,
+              "HttpStatus": 200,
+              "Size": 81960,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/Interstate-Regular.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-font-woff",
+              "DownloadTime": 219,
+              "EventId": 1024,
+              "HttpStatus": 200,
+              "Size": 98996,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/font-awesome/5.0.0/webfonts/fa-solid-900.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-font-woff",
+              "DownloadTime": 78,
+              "EventId": 1013,
+              "HttpStatus": 200,
+              "Size": 75645,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/Interstate-Light.woff"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 93,
+              "EventId": 1004,
+              "HttpStatus": 200,
+              "Size": 2650,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/internal/jscript/dwanalytics-20.5.1.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 63,
+              "EventId": 1002,
+              "HttpStatus": 200,
+              "Size": 1862,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/internal/jscript/dwac-20.3.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 78,
+              "EventId": 1000,
+              "HttpStatus": 200,
+              "Size": 420885,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/font-awesome/5.0.0/js/all.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 998,
+              "HttpStatus": 200,
+              "Size": 1021,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/images/bagicon24x24.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 993,
+              "HttpStatus": 200,
+              "Size": 16393,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/images/levis_sprite_icons_size24.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 63,
+              "EventId": 987,
+              "HttpStatus": 200,
+              "Size": 19040,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/dwf2aaf995/images/facebookmonochrome24x24.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 94,
+              "EventId": 985,
+              "HttpStatus": 200,
+              "Size": 802,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dwa29815be/images/homepage/India.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 983,
+              "HttpStatus": 200,
+              "Size": 19366,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/dwb1a699d2/images/googleicon24x24.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 124,
+              "EventId": 980,
+              "HttpStatus": 200,
+              "Size": 9844,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw96cbad45/images/homepage/logo.jpg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 972,
+              "HttpStatus": 200,
+              "Size": 100070,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/js/app.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 63,
+              "EventId": 970,
+              "HttpStatus": 200,
+              "Size": 910,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jwgSlider.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 968,
+              "HttpStatus": 200,
+              "Size": 6430,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery.flexslider-min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 966,
+              "HttpStatus": 200,
+              "Size": 7356,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/hammer.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 964,
+              "HttpStatus": 200,
+              "Size": 6799,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/jquery.validate.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 962,
+              "HttpStatus": 200,
+              "Size": 5097,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/jquery.jcarousel.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 140,
+              "EventId": 960,
+              "HttpStatus": 200,
+              "Size": 12928,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/font-awesome/5.0.0/css/all.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 125,
+              "EventId": 958,
+              "HttpStatus": 200,
+              "Size": 2808,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/jquery.dotdotdot.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 63,
+              "EventId": 952,
+              "HttpStatus": 200,
+              "Size": 64486,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/ui/jquery-ui.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 950,
+              "HttpStatus": 200,
+              "Size": 151,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/v1625021329000/custom-css/local-sitewide-css.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 140,
+              "EventId": 942,
+              "HttpStatus": 200,
+              "Size": 73860,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/css/style.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 140,
+              "EventId": 940,
+              "HttpStatus": 200,
+              "Size": 12131,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/font-awesome/5.0.0/css/font-awesome.min.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 93,
+              "EventId": 937,
+              "HttpStatus": 200,
+              "Size": 12404,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/font-awesome/5.0.0/css/all.min.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 78,
+              "EventId": 935,
+              "HttpStatus": 200,
+              "Size": 4829,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/ui/jquery-ui.min.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 78,
+              "EventId": 932,
+              "HttpStatus": 200,
+              "Size": 29555,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/jquery-2.1.1.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 930,
+              "HttpStatus": 200,
+              "Size": 15,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/v1625021329000/custom-js/local-sitewide-js.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 670,
+              "EventId": 927,
+              "HttpStatus": 200,
+              "Size": 16732,
+              "URL": "https://www.levi.in/login"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 530,
+              "EventId": 884,
+              "HttpStatus": 200,
+              "Size": 35,
+              "URL": "https://www.levi.in/on/demandware.store/Sites-LeviIN-Site/en_IN/__Analytics-Start?url=https%3A%2F%2Fwww.levi.in%2F&res=1366x768&cookie=1&ref=&title=Levi%27s%C2%AE%20Jeans%2C%20Jackets%20%26%20Clothing&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&dwac=0.8701721655565808&cmpn=&tz=Asia/Kolkata&pcc=INR&pct=&pcat=&dw_dnt=0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/x-icon",
+              "DownloadTime": 156,
+              "EventId": 876,
+              "HttpStatus": 200,
+              "Size": 767,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/default/dwae3ddded/images/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 78,
+              "EventId": 703,
+              "HttpStatus": 200,
+              "Size": 157603,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dwdd89ba1c/images/homepage/newsletterpopup_background.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 78,
+              "EventId": 701,
+              "HttpStatus": 200,
+              "Size": 168,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/images/interface/ui-overlay-shadow.png"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 172,
+              "EventId": 649,
+              "HttpStatus": 200,
+              "Size": 1308,
+              "URL": "https://www.levi.in/on/demandware.store/Sites-LeviIN-Site/en_IN/Home-Newsletterpopup?format=ajax"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 312,
+              "EventId": 529,
+              "HttpStatus": 200,
+              "Size": 114231,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw4a88ddc6/images/Offer%20banner%20.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 218,
+              "EventId": 517,
+              "HttpStatus": 200,
+              "Size": 123458,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw693ea05e/images/ShopSustanabiliy%20Desktop.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 234,
+              "EventId": 507,
+              "HttpStatus": 200,
+              "Size": 174995,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw1e8da55f/images/homepage/Main%20Carousel/Website%20Banner.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 505,
+              "HttpStatus": 200,
+              "Size": 76098,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw5460d126/images/ShopWomen%20Desktop.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 172,
+              "EventId": 500,
+              "HttpStatus": 200,
+              "Size": 87661,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw897754a7/images/ShopMenDesktop.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 63,
+              "EventId": 491,
+              "HttpStatus": 200,
+              "Size": 290963,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dwe1eaa8df/images/homepage/Summer_Daze_Desktop_OPTION.jpg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 140,
+              "EventId": 482,
+              "HttpStatus": 200,
+              "Size": 1862,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/internal/jscript/dwac-20.3.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 171,
+              "EventId": 477,
+              "HttpStatus": 200,
+              "Size": 2650,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/internal/jscript/dwanalytics-20.5.1.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 475,
+              "HttpStatus": 200,
+              "Size": 20698,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/images/triangledown24x24.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 110,
+              "EventId": 473,
+              "HttpStatus": 200,
+              "Size": 9844,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw96cbad45/images/homepage/logo.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 94,
+              "EventId": 471,
+              "HttpStatus": 200,
+              "Size": 802,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dwa29815be/images/homepage/India.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-font-woff",
+              "DownloadTime": 94,
+              "EventId": 465,
+              "HttpStatus": 200,
+              "Size": 98996,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/font-awesome/5.0.0/webfonts/fa-solid-900.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-font-woff",
+              "DownloadTime": 110,
+              "EventId": 451,
+              "HttpStatus": 200,
+              "Size": 81960,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/Interstate-Regular.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 125,
+              "EventId": 448,
+              "HttpStatus": 200,
+              "Size": 14775,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/images/levis_sprite_icons_size62.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 62,
+              "EventId": 441,
+              "HttpStatus": 200,
+              "Size": 1021,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/images/bagicon24x24.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-font-woff",
+              "DownloadTime": 63,
+              "EventId": 438,
+              "HttpStatus": 200,
+              "Size": 71997,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/Interstate-Bold.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 424,
+              "HttpStatus": 200,
+              "Size": 145353,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw0c24e48e/images/homepage/Levi_footwear_website.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/x-font-woff",
+              "DownloadTime": 47,
+              "EventId": 417,
+              "HttpStatus": 200,
+              "Size": 75645,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/Interstate-Light.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 561,
+              "EventId": 343,
+              "HttpStatus": 200,
+              "Size": 76098,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw5460d126/images/ShopWomen%20Desktop.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 531,
+              "EventId": 341,
+              "HttpStatus": 200,
+              "Size": 123458,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw693ea05e/images/ShopSustanabiliy%20Desktop.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 436,
+              "EventId": 337,
+              "HttpStatus": 200,
+              "Size": 87661,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw897754a7/images/ShopMenDesktop.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 218,
+              "EventId": 328,
+              "HttpStatus": 200,
+              "Size": 114231,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw4a88ddc6/images/Offer%20banner%20.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 187,
+              "EventId": 326,
+              "HttpStatus": 200,
+              "Size": 16393,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/images/levis_sprite_icons_size24.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 296,
+              "EventId": 250,
+              "HttpStatus": 200,
+              "Size": 174995,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw1e8da55f/images/homepage/Main%20Carousel/Website%20Banner.jpg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 358,
+              "EventId": 245,
+              "HttpStatus": 200,
+              "Size": 420885,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/font-awesome/5.0.0/js/all.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 328,
+              "EventId": 243,
+              "HttpStatus": 200,
+              "Size": 290963,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dwe1eaa8df/images/homepage/Summer_Daze_Desktop_OPTION.jpg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 94,
+              "EventId": 238,
+              "HttpStatus": 200,
+              "Size": 100070,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/js/app.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 62,
+              "EventId": 235,
+              "HttpStatus": 200,
+              "Size": 9844,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dw96cbad45/images/homepage/logo.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 63,
+              "EventId": 231,
+              "HttpStatus": 200,
+              "Size": 802,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/dwa29815be/images/homepage/India.jpg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 46,
+              "EventId": 227,
+              "HttpStatus": 200,
+              "Size": 910,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jwgSlider.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 225,
+              "HttpStatus": 200,
+              "Size": 6430,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery.flexslider-min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 46,
+              "EventId": 223,
+              "HttpStatus": 200,
+              "Size": 7356,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/hammer.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 221,
+              "HttpStatus": 200,
+              "Size": 6799,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/jquery.validate.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 219,
+              "HttpStatus": 200,
+              "Size": 5097,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/jquery.jcarousel.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 217,
+              "HttpStatus": 200,
+              "Size": 2808,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/jquery.dotdotdot.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 78,
+              "EventId": 206,
+              "HttpStatus": 200,
+              "Size": 12928,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/font-awesome/5.0.0/css/all.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 78,
+              "EventId": 203,
+              "HttpStatus": 200,
+              "Size": 64486,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/ui/jquery-ui.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 312,
+              "EventId": 196,
+              "HttpStatus": 200,
+              "Size": 15,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/v1625021329000/custom-js/local-sitewide-js.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 140,
+              "EventId": 189,
+              "HttpStatus": 200,
+              "Size": 73860,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/css/style.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 141,
+              "EventId": 187,
+              "HttpStatus": 200,
+              "Size": 12404,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/font-awesome/5.0.0/css/all.min.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 156,
+              "EventId": 185,
+              "HttpStatus": 200,
+              "Size": 151,
+              "URL": "https://www.levi.in/on/demandware.static/-/Sites-LeviIN-Library/en_IN/v1625021329000/custom-css/local-sitewide-css.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 125,
+              "EventId": 177,
+              "HttpStatus": 200,
+              "Size": 12131,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/fonts/font-awesome/5.0.0/css/font-awesome.min.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 63,
+              "EventId": 175,
+              "HttpStatus": 200,
+              "Size": 4829,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/ui/jquery-ui.min.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 167,
+              "HttpStatus": 200,
+              "Size": 29555,
+              "URL": "https://www.levi.in/on/demandware.static/Sites-LeviIN-Site/-/en_IN/v1625021329000/lib/jquery/jquery-2.1.1.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 468,
+              "EventId": 121,
+              "HttpStatus": 200,
+              "Size": 18670,
+              "URL": "https://www.levi.in/"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "igodigital.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "52.73.82.215",
+          "IncludeInScript": false,
+          "Name": "nova.collect.igodigital.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/gif",
+              "DownloadTime": 265,
+              "EventId": 858,
+              "HttpStatus": 200,
+              "Size": 64,
+              "URL": "https://nova.collect.igodigital.com/c2/10965341/track_page_view?payload=%7B%22title%22%3A%22Levi%27s%C2%AE%20Jeans%2C%20Jackets%20%26%20Clothing%22%2C%22url%22%3A%22https%3A%2F%2Fwww.levi.in%2F%22%2C%22referrer%22%3A%22%22%2C%22user_info%22%3A%7B%22email%22%3A%22%22%7D%7D"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "18.214.4.88",
+          "IncludeInScript": false,
+          "Name": "10965341.collect.igodigital.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 717,
+              "EventId": 783,
+              "HttpStatus": 200,
+              "Size": 2373,
+              "URL": "https://10965341.collect.igodigital.com/collect.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "gstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.76.35",
+          "IncludeInScript": false,
+          "Name": "ssl.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 47,
+              "EventId": 61,
+              "HttpStatus": 200,
+              "Size": 106350,
+              "URL": "https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_9.pb"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googletagmanager.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.193.168",
+          "IncludeInScript": false,
+          "Name": "www.googletagmanager.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 125,
+              "EventId": 577,
+              "HttpStatus": 200,
+              "Size": 35197,
+              "URL": "https://www.googletagmanager.com/gtag/js?id=AW-362405101"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 749,
+              "EventId": 355,
+              "HttpStatus": 200,
+              "Size": 40518,
+              "URL": "https://www.googletagmanager.com/gtm.js?id=GTM-5FJJ8V6"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.76.35",
+          "IncludeInScript": false,
+          "Name": "update.googleapis.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 297,
+              "EventId": 896,
+              "HttpStatus": 200,
+              "Size": 872,
+              "URL": "http://update.googleapis.com/service/update2/json?cup2key=10:1486977835&cup2hreq=8853c35b01670e60f17a218f7fda74e96fa47d4c32cff231b798b792a06a93c8"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.200.138",
+          "IncludeInScript": false,
+          "Name": "content-autofill.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 655,
+              "HttpStatus": 200,
+              "Size": 92,
+              "URL": "https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvOTEuMC40NDcyLjExNBIeCU4wrUjOvk0bEgUNc6H83BIFDZZ6YGkSBQ0pbJZjEhcJLJ5tpBednGUSBQ3FweF7EgUN570NMw==?alt=proto"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.200.131",
+          "IncludeInScript": false,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 297,
+              "EventId": 103,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=91"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleadservices.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.196.2",
+          "IncludeInScript": false,
+          "Name": "www.googleadservices.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 562,
+              "EventId": 774,
+              "HttpStatus": 200,
+              "Size": 14015,
+              "URL": "https://www.googleadservices.com/pagead/conversion_async.js"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.195.100",
+          "IncludeInScript": false,
+          "Name": "www.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 62,
+              "EventId": 874,
+              "HttpStatus": 200,
+              "Size": 42,
+              "URL": "https://www.google.com/pagead/1p-user-list/362405101/?random=1625059196596&cv=9&fst=1625058000000&num=1&bg=ffffff&guid=ON&eid=2505059651&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=3&u_nmime=4&gtm=2oa6n0&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.levi.in%2F&tiba=Levi%27s%C2%AE%20Jeans%2C%20Jackets%20%26%20Clothing&async=1&fmt=3&is_vtc=1&random=2740403257&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.co.in",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.195.67",
+          "IncludeInScript": false,
+          "Name": "www.google.co.in",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 62,
+              "EventId": 872,
+              "HttpStatus": 200,
+              "Size": 42,
+              "URL": "https://www.google.co.in/pagead/1p-user-list/362405101/?random=1625059196596&cv=9&fst=1625058000000&num=1&bg=ffffff&guid=ON&eid=2505059651&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=3&u_nmime=4&gtm=2oa6n0&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.levi.in%2F&tiba=Levi%27s%C2%AE%20Jeans%2C%20Jackets%20%26%20Clothing&async=1&fmt=3&is_vtc=1&random=2740403257&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "facebook.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "157.240.228.1",
+          "IncludeInScript": false,
+          "Name": "connect.facebook.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 78,
+              "EventId": 647,
+              "HttpStatus": 200,
+              "Size": 24675,
+              "URL": "https://connect.facebook.net/en_US/fbevents.js"
+            }
+          ],
+          "SSLCipher": "TLS_CHACHA20_POLY1305_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "facebook.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "157.240.228.35",
+          "IncludeInScript": false,
+          "Name": "www.facebook.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 853,
+              "HttpStatus": 200,
+              "Size": 44,
+              "URL": "https://www.facebook.com/tr/?id=1130314854142043&ev=ViewContent&dl=https%3A%2F%2Fwww.levi.in%2F&rl=&if=false&ts=1625059198612&cd[currency]=INR&cd[content_type]=product&sw=1366&sh=768&v=2.9.42&r=stable&ec=1&o=30&fbp=fb.1.1625059198598.1709025691&it=1625059176814&coo=false&rqm=GET"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 46,
+              "EventId": 841,
+              "HttpStatus": 200,
+              "Size": 44,
+              "URL": "https://www.facebook.com/tr/?id=1130314854142043&ev=PageView&dl=https%3A%2F%2Fwww.levi.in%2F&rl=&if=false&ts=1625059198608&sw=1366&sh=768&v=2.9.42&r=stable&ec=0&o=30&fbp=fb.1.1625059198598.1709025691&it=1625059176814&coo=false&rqm=GET"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 839,
+              "HttpStatus": 200,
+              "Size": 44,
+              "URL": "https://www.facebook.com/tr/?id=156379811666636&ev=PageView&dl=https%3A%2F%2Fwww.levi.in%2F&rl=&if=false&ts=1625059198603&sw=1366&sh=768&v=2.9.42&r=stable&ec=0&o=30&fbp=fb.1.1625059198598.1709025691&it=1625059176814&coo=false&rqm=GET"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 837,
+              "HttpStatus": 200,
+              "Size": 44,
+              "URL": "https://www.facebook.com/tr/?id=156379811666636&ev=ViewContent&dl=https%3A%2F%2Fwww.levi.in%2F&rl=&if=false&ts=1625059198610&cd[currency]=INR&cd[content_type]=product&sw=1366&sh=768&v=2.9.42&r=stable&ec=1&o=30&fbp=fb.1.1625059198598.1709025691&it=1625059176814&coo=false&rqm=GET"
+            }
+          ],
+          "SSLCipher": "TLS_CHACHA20_POLY1305_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "doubleclick.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.196.162",
+          "IncludeInScript": false,
+          "Name": "googleads.g.doubleclick.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 125,
+              "EventId": 843,
+              "HttpStatus": 200,
+              "Size": 1055,
+              "URL": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/362405101/?random=1625059196596&cv=9&fst=1625059196596&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&eid=2505059651&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=1&u_tz=330&u_java=false&u_nplug=3&u_nmime=4&gtm=2oa6n0&sendb=1&ig=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.levi.in%2F&tiba=Levi%27s%C2%AE%20Jeans%2C%20Jackets%20%26%20Clothing&tc=x&hn=www.googleadservices.com&async=1&rfmt=3&fmt=4"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "criteo.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "182.161.72.131",
+          "IncludeInScript": false,
+          "Name": "static.criteo.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 109,
+              "EventId": 663,
+              "HttpStatus": 200,
+              "Size": 13095,
+              "URL": "https://static.criteo.net/js/ld/ld.js"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "cquotient.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "54.251.201.211",
+          "IncludeInScript": false,
+          "Name": "p.cquotient.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 78,
+              "EventId": 1099,
+              "HttpStatus": 200,
+              "Size": 252,
+              "URL": "https://p.cquotient.com/pebble?tla=bbrc-LeviIN&activityType=viewPage&callback=CQuotient._act_callback0&cookieId=bcLb8sQIeYwmKfaksl8x7XcdQe&referrer=https%3A%2F%2Fwww.levi.in%2F&currentLocation=https%3A%2F%2Fwww.levi.in%2Flogin&__cq_uuid=bcLb8sQIeYwmKfaksl8x7XcdQe&__cq_seg=0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00&ls=true&_=1625059230471&v=v2.33.0&json=%7B%22cookieId%22%3A%22bcLb8sQIeYwmKfaksl8x7XcdQe%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.levi.in%2F%22%2C%22currentLocation%22%3A%22https%3A%2F%2Fwww.levi.in%2Flogin%22%2C%22__cq_uuid%22%3A%22bcLb8sQIeYwmKfaksl8x7XcdQe%22%2C%22__cq_seg%22%3A%220~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00%22%2C%22ls%22%3Atrue%2C%22_%22%3A1625059230471%2C%22v%22%3A%22v2.33.0%22%7D"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 702,
+              "EventId": 785,
+              "HttpStatus": 200,
+              "Size": 252,
+              "URL": "https://p.cquotient.com/pebble?tla=bbrc-LeviIN&activityType=viewPage&callback=CQuotient._act_callback1&cookieId=bcLb8sQIeYwmKfaksl8x7XcdQe&referrer=&currentLocation=https%3A%2F%2Fwww.levi.in%2F&ls=true&_=1625059175916&v=v2.33.0&json=%7B%22cookieId%22%3A%22bcLb8sQIeYwmKfaksl8x7XcdQe%22%2C%22referrer%22%3A%22%22%2C%22currentLocation%22%3A%22https%3A%2F%2Fwww.levi.in%2F%22%2C%22ls%22%3Atrue%2C%22_%22%3A1625059175916%2C%22v%22%3A%22v2.33.0%22%7D"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "54.251.201.211",
+          "IncludeInScript": false,
+          "Name": "e.cquotient.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 125,
+              "EventId": 652,
+              "HttpStatus": 200,
+              "Size": 909,
+              "URL": "https://e.cquotient.com/recs/bbrc-LeviIN/IN-Homepage-APR?callback=CQuotient._callback0&_=1625059162523&_device=windows&userId=&cookieId=bcLb8sQIeYwmKfaksl8x7XcdQe&emailId=&anchors=id%3A%3A%7C%7Csku%3A%3A%7C%7Ctype%3A%3A%7C%7Calt_id%3A%3A&slotId=home-newarrivals&slotConfigId=Predictive%20Intelligence%20IN01&slotConfigTemplate=slots%2Frecommendation%2Fnewarrivalcarousel.isml&ccver=1.03&v=v2.33.0&json=%7B%22userId%22%3A%22%22%2C%22cookieId%22%3A%22bcLb8sQIeYwmKfaksl8x7XcdQe%22%2C%22emailId%22%3A%22%22%2C%22anchors%22%3A%5B%7B%22id%22%3A%22%22%2C%22sku%22%3A%22%22%2C%22type%22%3A%22%22%2C%22alt_id%22%3A%22%22%7D%5D%2C%22slotId%22%3A%22home-newarrivals%22%2C%22slotConfigId%22%3A%22Predictive%20Intelligence%20IN01%22%2C%22slotConfigTemplate%22%3A%22slots%2Frecommendation%2Fnewarrivalcarousel.isml%22%2C%22ccver%22%3A%221.03%22%2C%22v%22%3A%22v2.33.0%22%7D"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "99.86.15.190",
+          "IncludeInScript": false,
+          "Name": "cdn.cquotient.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 218,
+              "EventId": 331,
+              "HttpStatus": 200,
+              "Size": 12124,
+              "URL": "https://cdn.cquotient.com/js/v2/gretel.min.js"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "artfut.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.26.0.109",
+          "IncludeInScript": false,
+          "Name": "www.artfut.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 187,
+              "EventId": 735,
+              "HttpStatus": 200,
+              "Size": 7496,
+              "URL": "https://www.artfut.com/static/crossdevice.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 719,
+              "HttpStatus": 200,
+              "Size": 7039,
+              "URL": "https://www.artfut.com/static/tracking.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 642,
+              "HttpStatus": 200,
+              "Size": 1362,
+              "URL": "https://www.artfut.com/static/tagtag.min.js?campaign_code=85f91771ee"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "adobedtm.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "106.51.144.43",
+          "IncludeInScript": false,
+          "Name": "assets.adobedtm.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 125,
+              "EventId": 485,
+              "HttpStatus": 200,
+              "Size": 13176,
+              "URL": "https://assets.adobedtm.com/29f49d11f3f2d17b2a8aec0a386e6a7648dc6a4e/s-code-contents-74f5c9e764e47fb1df198bf47bf3e4fc44b8585a.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 47,
+              "EventId": 213,
+              "HttpStatus": 200,
+              "Size": 29069,
+              "URL": "https://assets.adobedtm.com/29f49d11f3f2d17b2a8aec0a386e6a7648dc6a4e/satelliteLib-269990d361275ae2d6d2f76d032823976580cd86.js"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "adobe.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "3.108.177.136",
+          "IncludeInScript": false,
+          "Name": "sstats.adobe.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 201,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s82662510490251?AQB=1&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A49%3A1%203%20-330&fid=7AB5A647CFFD06EB-24C4DAD3A62BCCF1&ce=UTF-8&pageName=DCBrowserExt%3AOS%3Awin%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.2.6&v2=sideload&v3=prod&v4=unknown&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 156,
+              "EventId": 193,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s81951239916152?AQB=1&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A49%3A1%203%20-330&fid=7AB5A647CFFD06EB-24C4DAD3A62BCCF1&ce=UTF-8&pageName=DCBrowserExt%3AExtension%3AStartup%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.2.6&v2=sideload&v3=prod&v4=unknown&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 173,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s8452401604303?AQB=1&pccr=true&vidn=306E37A66D7E4AF2-4000072B2398E195&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A49%3A1%203%20-330&fid=7AB5A647CFFD06EB-24C4DAD3A62BCCF1&ce=UTF-8&pageName=DCBrowserExt%3AShim%3AVersion%3AUnknown%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.2.6&v2=sideload&v3=prod&v4=not_set&s=1366x768&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 281,
+              "EventId": 133,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s8452401604303?AQB=1&ndh=1&pf=1&t=30%2F5%2F2021%2018%3A49%3A1%203%20-330&fid=7AB5A647CFFD06EB-24C4DAD3A62BCCF1&ce=UTF-8&pageName=DCBrowserExt%3AShim%3AVersion%3AUnknown%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.2.6&v2=sideload&v3=prod&v4=not_set&s=1366x768&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "192.168.0.100",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "192.168.0.100",
+          "IncludeInScript": false,
+          "Name": "192.168.0.100",
+          "Port": 7676,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/xml",
+              "DownloadTime": 93,
+              "EventId": 47,
+              "HttpStatus": 200,
+              "Size": 1312,
+              "URL": "http://192.168.0.100:7676/smp_25_"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "127.0.0.1",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "127.0.0.1",
+          "IncludeInScript": false,
+          "Name": "127.0.0.1",
+          "Port": 9093,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 1105,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=WhiteListUrl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 1101,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=RegExp"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 1097,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=ExtSett"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 909,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=WhiteListUrl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 907,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=RegExp"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 905,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=ExtSett"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 870,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=WhiteListUrl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 868,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=RegExp"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 866,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=ExtSett"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 515,
+              "EventId": 772,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=RegExp"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 546,
+              "EventId": 770,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=ExtSett"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 468,
+              "EventId": 768,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=WhiteListUrl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 234,
+              "EventId": 693,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=WhiteListUrl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 661,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=RegExp"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 94,
+              "EventId": 644,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=ExtSett"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 346,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=WhiteListUrl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 312,
+              "EventId": 339,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=RegExp"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 334,
+              "HttpStatus": 200,
+              "Size": 47,
+              "URL": "http://127.0.0.1:9093/?request=ExtSett"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 78,
+              "EventId": 28,
+              "HttpStatus": 200,
+              "Size": 240,
+              "URL": "http://127.0.0.1:9093/?request=WhiteListUrl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 26,
+              "HttpStatus": 200,
+              "Size": 13343,
+              "URL": "http://127.0.0.1:9093/?request=RegExp"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 93,
+              "EventId": 21,
+              "HttpStatus": 200,
+              "Size": 290,
+              "URL": "http://127.0.0.1:9093/?request=ExtSett"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

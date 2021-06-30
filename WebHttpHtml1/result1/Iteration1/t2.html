@@ -1,0 +1,269 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="close-popup-button"><span>CLOSE</span></div>
+<div id="newsletter-sub" class="newsletter-sub footer-item">
+
+
+<div class="heading1">IT IS ALL ABOUT THE PERKS</div>
+<div class="subscribe-heading">
+
+<div>20% OFF on full priced jeans for all new Levi's® email subscribers</div>
+
+</div>
+
+
+<form action="https://www.levi.in/newslettersignup" method="post" id="newsletter-popup" class="newsletter-popup">
+<div class="email-button">
+
+
+
+<div class="form-row  required">
+
+
+
+<label for="dwfrm_newsletterpopup_preference"><span class="required-indicator">&#8226; </span><span></span></label>
+
+
+<div class="field-wrapper">
+<select class="input-select  required" id="dwfrm_newsletterpopup_preference" name="dwfrm_newsletterpopup_preference" ><option class="select-option" optionId="Men" label="Men" value="Men" >Men</option><option class="select-option" optionId="Women" label="Women" value="Women" >Women</option><option class="select-option" optionId="Both" label="Both" value="Both" >Both</option></select>
+</div>
+
+
+  
+
+
+<div class="form-caption"></div>
+
+</div>
+
+
+
+
+<div class="form-row phoneno required">
+
+
+
+<label for="dwfrm_newsletterpopup_phoneMobile"><span class="required-indicator">&#8226; </span><span>(91)</span></label>
+
+
+<div class="field-wrapper">
+<input class="input-text phone required" type="text"  id="dwfrm_newsletterpopup_phoneMobile" name="dwfrm_newsletterpopup_phoneMobile" value="" maxlength="10" placeholder="Mobile Number" />
+</div>
+
+
+  
+
+
+<div class="form-caption"></div>
+
+</div>
+
+<input type="hidden" name="footernewsletter.addToEmailList" value="true" />
+<input type="hidden" name="footernewsletter.siteID" value="LeviIN" />
+
+
+
+<div class="form-row  required">
+
+
+
+<label for="dwfrm_newsletterpopup_newsletterEmail"><span class="required-indicator">&#8226; </span><span></span></label>
+
+
+<div class="field-wrapper">
+<input class="input-text  required" type="email"  id="dwfrm_newsletterpopup_newsletterEmail" name="dwfrm_newsletterpopup_newsletterEmail" value="" maxlength="60" placeholder="Email Address" />
+</div>
+
+
+  
+
+
+<div class="form-caption"></div>
+
+</div>
+
+<div class=" terms ">
+
+
+
+<div class="form-row  required label-inline form-indent">
+
+
+
+<div class="field-wrapper">
+<input class="input-checkbox  required" type="checkbox"  id="dwfrm_newsletterpopup_newsletterTermsAndConditions" name="dwfrm_newsletterpopup_newsletterTermsAndConditions" value="true" />
+
+<label for="dwfrm_newsletterpopup_newsletterTermsAndConditions"><span class="required-indicator">&#8226; </span><span></span></label>
+
+</div>
+
+
+  
+
+
+<div class="form-caption"></div>
+
+</div>
+
+<span class="terms-text">
+
+	 
+
+
+	
+
+<div class="html-slot-container">
+
+
+Yes, send me personalized communications from LS&Co. with exclusives offers,new arrivals, event invites and more, in accordance with our 
+<a href="https://www.levi.in/privacy-policy.html" class="privacy-policy" title="Privacy Policy" data-event="event-data-navigation" data-footer-nav="Policies" target="_blank">Privacy Policy</a>
+
+
+</div> 
+	
+</span>
+</div>
+<button class="secondary newsletterpop-email" id="newsletterbtn" type="submit" value="submit" name="home-email" data-event="event-data-navigation" data-footer-nav="Subscription">
+JOIN
+</button>
+<div class="newsletter-popup-email-error" ></div>
+</div>
+</form>
+<div class="newsletter-popup-success" ></div>
+<div id="newsletter-popup-already-registered-email-error" class="error"></div>
+</div>
+
+<input type="hidden" id="isGTMEnabled" value="true"/>
+<input type="hidden" id="isGTMEnabledNZ" value="null"/>
+
+
+
+
+
+
+
+
+
+<script>
+function gtmSubscriptionData()
+{
+var emailId;
+var customerGender;
+if("true"=="true")
+{
+emailId=$("#dwfrm_newsletterpopup_newsletterEmail").val();
+customerGender=$("#dwfrm_newsletterpopup_preference").val();
+}
+else
+{
+emailId=$("#dwfrm_footernewsletter_newsletterEmail").val();
+customerGender=$("#dwfrm_footernewsletter_preference").val();
+}
+var customerDataArray = new Array();
+var customerData = "";
+customerDataArray.push({
+email:emailId,
+details: {Gender : customerGender,
+Country : "India" }
+});
+customerData = customerDataArray;
+dataLayer.push({
+event: "gtm_datalayer_newsletter",
+LScustomerData: customerData
+});
+}
+</script>
+
